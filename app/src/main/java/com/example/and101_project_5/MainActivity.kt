@@ -77,7 +77,6 @@ class MainActivity : AppCompatActivity() {
 
             override fun onFailure(statusCode: Int, headers: Headers?, response: String?, throwable: Throwable?) {
                 Log.e("Pokemon API", "Failure $response", throwable)
-
             }
         })
     }
