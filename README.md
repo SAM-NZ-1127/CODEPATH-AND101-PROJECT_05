@@ -8,7 +8,7 @@ Time spent: **6** hours spent in total
 
 ## Summary
 
-**Pokedex** is an android app that **It is and app that utilizes pokiapi to genrate random pokemons  data, with an additional functionality of users being able to search their pokemon as well**
+**Pokedex** is an Android app that **It is an app that utilizes pokiapi to generate random Pokemons  data, with an additional functionality of users being able to search their Pokemon as well**
 
 If I had to describe this project in three (3) emojis, they would be: **😊, 💻, 🔍**
 
@@ -25,7 +25,7 @@ The following REQUIRED features are completed:
 The following STRETCH features are implemented:
 
 - [x] Add a query to the API request
-  - The query I added is **FILL IN HERE**
+  - The query I added is **Pokemon name or ID to search for a specific Pokemon**
 - [x] Build a UI to allow users to add that query
 
 The following EXTRA features are implemented:
@@ -50,8 +50,7 @@ GIF created with **ScreenToGif**
 - [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I learned about Async and API and how to connect my app to the Internet. I also learned to navigate and interpret the API documentation to fetch data properly. 
 
 ## License
 
